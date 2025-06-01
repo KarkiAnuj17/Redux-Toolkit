@@ -87,5 +87,12 @@ Create one or more slice files (e.g., `boxSlice.js`) using `createSlice` from Re
 - Import actions and selectors from your slice in a component.
 - Use them with `useDispatch` and `useSelector` from `react-redux`.
 
+##Output
+![Screenshot 2025-06-01 134752](https://github.com/user-attachments/assets/2e6eacb5-33cd-4173-a84d-082a6a4188f1)
+![Screenshot 2025-06-01 134845](https://github.com/user-attachments/assets/ae38ba63-5cc2-4d48-bffe-d336e70a8546)
+![Screenshot 2025-06-01 134912](https://github.com/user-attachments/assets/96d54ee0-8c22-4742-9d0a-fcb97fe4c98e)
+
+
 ---
+
 
